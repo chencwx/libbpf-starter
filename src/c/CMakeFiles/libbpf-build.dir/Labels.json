@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cwx/桌面/libbpf-bootstrap/examples/c/CMakeFiles/libbpf-build"
+		},
+		{
+			"file" : "/home/cwx/桌面/libbpf-bootstrap/examples/c/CMakeFiles/libbpf-build.rule"
+		},
+		{
+			"file" : "/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-build.rule"
+		},
+		{
+			"file" : "/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-configure.rule"
+		},
+		{
+			"file" : "/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-update.rule"
+		},
+		{
+			"file" : "/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-patch.rule"
+		},
+		{
+			"file" : "/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-download.rule"
+		},
+		{
+			"file" : "/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libbpf"
+		],
+		"name" : "libbpf-build"
+	}
+}

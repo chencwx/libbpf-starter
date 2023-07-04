@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/t_process.dir/t_process.c.o  -o t_process  libbpf/libbpf.a -lelf -lz 

@@ -1,0 +1,13 @@
+# Target labels
+ libbpf
+# Source files and their labels
+/home/cwx/桌面/libbpf-bootstrap/examples/c/CMakeFiles/libbpf
+/home/cwx/桌面/libbpf-bootstrap/examples/c/CMakeFiles/libbpf.rule
+/home/cwx/桌面/libbpf-bootstrap/examples/c/CMakeFiles/libbpf-complete.rule
+/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-install.rule
+/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-mkdir.rule
+/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-download.rule
+/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-update.rule
+/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-patch.rule
+/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-configure.rule
+/home/cwx/桌面/libbpf-bootstrap/examples/c/libbpf/src/libbpf-stamp/libbpf-build.rule
